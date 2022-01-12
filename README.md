@@ -7,7 +7,7 @@ https://github.com/Fikhhz/project_uas_karyalogam.git
 ```
 - Lakukan ```git clone``` pada respository yang tadi kita copy, Buka Netbeans lalu pilih ```Open Projects```<br>
 <img src="Screenshoot/Screenshot (27).png">
--Didalamnya terdapat package terdiri dari controller, database, model, mvc, dan view <br>
+- Didalamnya terdapat package terdiri dari controller, database, model, mvc, dan view <br>
 <img src="Screenshoot/12.png">
 
 # Result Application
