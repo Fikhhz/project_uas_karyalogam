@@ -5,7 +5,8 @@ https://git-scm.com/downloads
 ```console
 https://github.com/Fikhhz/project_uas_karyalogam.git
 ```
-- Lakukan ```git clone``` pada respository sebelumnya pada project ini, Buka Netbeans lalu pilih ```Open Projects```
+- Lakukan ```git clone``` pada respository sebelumnya pada project ini, Buka Netbeans lalu pilih ```Open Projects```<br>
+![codemagic2](Screenshot/Screenshot (27).png)
 
 # project_uas_karyalogam
 5B Kelompok 4 Pemprograman Desktop
