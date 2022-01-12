@@ -1,9 +1,11 @@
 # Open Project File 
-<li>Harus install terlebih dahulu aplikasi Git CLI
-https://git-scm.com/downloads <li><br>
-Clone this repository
+- Harus install terlebih dahulu aplikasi Git CLI
+https://git-scm.com/downloads
+- Clone this repository
+```console
 https://github.com/Fikhhz/project_uas_karyalogam.git
-Lakukan git clone pada respository sebelumnya pada project ini
+```
+- Lakukan git clone pada respository sebelumnya pada project ini
 
 Setelah itu, Buka Netbeans lalu pilih Open Projects
 
