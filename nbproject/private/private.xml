@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/database/konfigurasiDatabase.properties</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/controller/controlleruser.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/database/KoneksiDatabase.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/model/modelstock.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/view/viewListbarang.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/view/viewLaporanpembelian.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/view/viewstock.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/model/modelLaporanpenjualan.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/view/viewtransaksi.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/mvc/utama.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/model/modelpembelian.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/controller/controllerlLaporanpembelian.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/view/viewuser.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/controller/controllerLaporanpenjualan.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/view/viewpembelian.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/controller/controllerpembelian.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/model/modelLaporanpembelian.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/uas_desktop/src/controller/controllerstock.java</file>
+        </group>
+    </open-files>
+</project-private>
