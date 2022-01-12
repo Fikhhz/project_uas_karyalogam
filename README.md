@@ -11,15 +11,17 @@ https://github.com/Fikhhz/project_uas_karyalogam.git
 <img src="Screenshoot/12.png">
 
 # Result Application
-- Tampilan Halaman Utama
-![image](https://user-images.githubusercontent.com/95403285/149063618-3a233996-6e33-4585-87e0-57347f2b2f81.png)
+- Tampilan Halaman Utama <br>
+![image](https://user-images.githubusercontent.com/95403285/149063781-d3dff940-af18-4776-8d02-5fee5ba03951.png)
 
-- Tampilan Menu Penjualan
+- Tampilan Menu Penjualan <br>
+![image](https://user-images.githubusercontent.com/95403285/149063840-dc6f2b27-0cd4-47c8-b9b4-414222fbf458.png)
+
 # project_uas_karyalogam
 5B Kelompok 4 Pemprograman Desktop
 
 Anggota Kelompok :
-1. Ahmad Fauji
-2. Anton Taufik Hidayat
-3. Aprilianda Shafa Aryana
-4. Tawang Sahro Winanto
+1. Ahmad Fauji (1910631170004)
+2. Anton Taufik Hidayat (1910631170008)
+3. Tawang Sahro Winanto (1910631170141)
+4. Aprilianda Shafa Aryana (1910631170164)
