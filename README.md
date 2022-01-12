@@ -11,6 +11,12 @@ https://github.com/Fikhhz/project_uas_karyalogam.git
 - Didalamnya terdapat package terdiri dari controller, database, model, mvc, dan view <br>
 ![12](https://user-images.githubusercontent.com/95403285/149064287-171f5250-c1a6-425b-b750-a5e0b0b5d9b0.png)
 
+- Database yang digunakan ```gas(1)```<br>
+![image](https://user-images.githubusercontent.com/95403285/149064472-d84ea177-ba6e-4955-97f1-cdcb14e0dde5.png)
+
+Terdapat dua hak akses antara lain admin dan karyawan. Admin bisa melakukan akses kesemua menu, dan Karyawan hanya dapat melakukan menu transaksi
+
+
 # Result Application
 - Tampilan Halaman Utama <br>
 ![image](https://user-images.githubusercontent.com/95403285/149063781-d3dff940-af18-4776-8d02-5fee5ba03951.png)
