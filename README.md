@@ -9,7 +9,7 @@ https://github.com/Fikhhz/project_uas_karyalogam.git
 <img src="Screenshoot/Screenshot (27).png"><br>
 
 - Didalamnya terdapat package terdiri dari controller, database, model, mvc, dan view <br>
-<img src="Screenshoot/12.png">
+![12](https://user-images.githubusercontent.com/95403285/149064287-171f5250-c1a6-425b-b750-a5e0b0b5d9b0.png)
 
 # Result Application
 - Tampilan Halaman Utama <br>
